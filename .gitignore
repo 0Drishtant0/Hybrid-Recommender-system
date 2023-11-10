@@ -1,3 +1,5 @@
 # .gitignore
-
-.env
+nodes_modules/
+data/
+.kaggle
+spotify-dataset.zip
